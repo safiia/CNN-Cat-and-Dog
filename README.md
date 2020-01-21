@@ -13,5 +13,5 @@ This is the images visulized by tensorboard:<br />
 the next figure is the Ghraph representation for the CNN model<br />
 ![Screenshot](Cat_Dog_graph.png)<br /><br />
 
-This figure represent the performance of the loss function <br />
+This figure represents the performance of the loss function <br />
 ![Screenshot](Scalars_Dog_Cat.png)<br /><br />
