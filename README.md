@@ -15,3 +15,6 @@ the next figure is the Ghraph representation for the CNN model<br />
 
 This figure represents the performance of the loss function <br />
 ![Screenshot](training_loss.jpg)<br /><br />
+
+if we went to represent image projector<br />
+![Screenshot](projector.png)<br /><br />
