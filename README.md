@@ -8,13 +8,17 @@ To run model two type: python main.py model_two: <br />
 
 ** Using Tensorboard to visualize the output ** <br />
 This is the images visulized by tensorboard:<br />
+<br />
 ![Screenshot](Cat_Dog_images.png) <br /><br />
 
 the next figure is the Ghraph representation for the CNN model<br />
+<br />
 ![Screenshot](Cat_Doggraph.png)<br /><br />
 
 This figure represents the performance of the loss function <br />
+<br />
 ![Screenshot](training_loss.jpg)<br /><br />
 
 if we went to represent image projector<br />
+<br />
 ![Screenshot](projector.png)<br /><br />
