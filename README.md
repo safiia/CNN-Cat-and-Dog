@@ -19,6 +19,6 @@ This figure represents the performance of the loss function <br />
 <br />
 ![Screenshot](training_loss.jpg)<br /><br />
 
-if we went to represent image projector<br />
+if we want to represent image projector<br />
 <br />
 ![Screenshot](projector.png)<br /><br />
